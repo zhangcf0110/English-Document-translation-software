@@ -7,7 +7,9 @@
 
 <div align=center>软件使用说明可看:(https://www.bilibili.com/video/BV1Jt4y1y7eU/) </div>
 
-###<font color=red face="黑体" size=40>如果觉得还行可以点加星呀！哈哈哈</font>
+
+
+<div align=center><font color=red face="黑体" size=40>如果觉得还行可以点加星呀！哈哈哈</font></div>
 
 ## 1.开发背景
 
@@ -30,7 +32,7 @@
 
 ## 3.设计结构
 
-<img src="https://github.com/zhangcf0110/English-Document-translation-software/blob/master/illustration_image/%E7%BB%98%E5%9B%BE1.jpg" width = "300" height = "300" alt="设计结构" align=center/>
+<div align=center><img src="https://github.com/zhangcf0110/English-Document-translation-software/blob/master/illustration_image/%E7%BB%98%E5%9B%BE1.jpg" width = "300" height = "300" alt="设计结构" ></div>
 
 ## 4.需要改进
 
