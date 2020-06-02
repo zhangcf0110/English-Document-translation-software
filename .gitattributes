@@ -1,3 +1,3 @@
-*.js linguist-language=JavaScript
+* linguist-language=JavaScript
 * linguist-language=python
 *.html linguist-language=Java
