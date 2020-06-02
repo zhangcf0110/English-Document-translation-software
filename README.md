@@ -1,9 +1,13 @@
 ----------------------英文即时划词翻译软件----------------------
 =======
 集成阅读器和翻译器于一体，边看边翻译。采用谷歌引擎，准确高效。UI界面干净纯粹，拒绝花里胡哨。
----
+------
+<img src="https://github.com/zhangcf0110/English-Document-translation-software/blob/master/illustration_image/%E6%B5%81%E7%A8%8B%E5%9B%BE.png" width = "700" height = "400" alt="" align=center/>
 
-![image](https://github.com/zhangcf0110/English-Document-translation-software/blob/master/illustration_image/%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
+
+<center> 软件使用说明可看:(https://www.bilibili.com/video/BV1Jt4y1y7eU/) </center>
+
+<font color=red face="黑体" size=10>如果觉得还行可以点加星呀！哈哈哈</font>
 
 ## 1.开发背景
 
@@ -23,3 +27,14 @@
 >（3）**增加文字预处理模块，最大程度降低由于原文本格式问题导致翻译不准确**。无需阅读者手动调整，就能获得高质量的翻译结果。
 
 >（4）通过**监听鼠标的实时状态自动的实现复制和翻译的功能，实现真正意义上的划词中英文互译**，省去外文文献、资料阅读者将需要翻译的内容右击复制到在线翻译网址中去这无意义的繁琐操作。
+
+## 3.设计结构
+
+<img src="https://github.com/zhangcf0110/English-Document-translation-software/blob/master/illustration_image/%E7%BB%98%E5%9B%BE1.jpg" width = "300" height = "300" alt="设计结构" align=center/>
+
+## 4.需要改进
+
+> (1)一键隐藏功能还有bug。
+
+> (2) 可以添加将PDF转WORD功能。
+
