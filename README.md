@@ -2,12 +2,12 @@
 =======
 集成阅读器和翻译器于一体，边看边翻译。采用谷歌引擎，准确高效。UI界面干净纯粹，拒绝花里胡哨。
 ------
-<img src="https://github.com/zhangcf0110/English-Document-translation-software/blob/master/illustration_image/%E6%B5%81%E7%A8%8B%E5%9B%BE.png" width = "700" height = "400" alt="" align=center/>
+<div align=center><img src="https://github.com/zhangcf0110/English-Document-translation-software/blob/master/illustration_image/%E6%B5%81%E7%A8%8B%E5%9B%BE.png" width = "700" height = "400" alt="" ></div>
 
 
-<center> 软件使用说明可看:(https://www.bilibili.com/video/BV1Jt4y1y7eU/) </center>
+<div align=center>软件使用说明可看:(https://www.bilibili.com/video/BV1Jt4y1y7eU/) </div>
 
-<font color=red face="黑体" size=10>如果觉得还行可以点加星呀！哈哈哈</font>
+###<font color=red face="黑体" size=40>如果觉得还行可以点加星呀！哈哈哈</font>
 
 ## 1.开发背景
 
