@@ -10,7 +10,8 @@
 
 ----------------------------------------------------------------------
 <div align=center><font  face="黑体" size=10>如果觉得还行可以点加星呀！哈哈哈</font></div>
------------------------------------------------------------------------
+
+
 ## 1.开发背景
 
 >（1）随着全球化的不断深入，如何快速、准确地实现中、英文这两种使用人数最多、范围最广的文字互译变得尤为重要。
@@ -32,7 +33,7 @@
 
 ## 3.设计结构
 
-<div align=center><img src="https://github.com/zhangcf0110/English-Document-translation-software/blob/master/illustration_image/%E7%BB%98%E5%9B%BE1.jpg" width = "300" height = "300" alt="设计结构" ></div>
+<div align=center><img src="https://github.com/zhangcf0110/English-Document-translation-software/blob/master/illustration_image/%E7%BB%98%E5%9B%BE1.jpg" width = "350" height = "350" alt="设计结构" ></div>
 
 ## 4.需要改进
 
