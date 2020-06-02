@@ -1,0 +1,10 @@
+[history_pdf]
+python灰帽子黑客与逆向工程师的python编程之道_中文.pdf = C:/Users/ZCF/Desktop/python 黑客/Python灰帽子黑客与逆向工程师的Python编程之道_中文.pdf
+black hat python.pdf = C:/Users/ZCF/Desktop/python 黑客/Python黑帽子：黑客与渗透测试编程之道/Black Hat Python/Black Hat Python.pdf
+网络攻防.pdf = C:/Users/ZCF/Desktop/网络攻防.pdf
+项目构想建议书.docx = C:/Users/ZCF/Desktop/项目构想建议书.docx
+项目构想建议书.pdf = C:/Users/ZCF/Desktop/项目构想建议书.pdf
+申请.pdf = C:/Users/ZCF/Desktop/申请.pdf
+1-s2.main.pdf = C:/Users/ZCF/Desktop/容错控制/1-s2.main.pdf
+说明.pdf = C:/Users/ZCF/Desktop/说明.pdf
+
